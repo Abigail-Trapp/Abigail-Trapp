@@ -1,4 +1,4 @@
-Hi there 👋 
+## Hi there 👋 
 ## My name is Abigail Trapp!
 ![cat-nyan](https://user-images.githubusercontent.com/79931224/131932759-70456940-1eb0-4dbd-a8b1-d54a27026efa.gif)
 ### I consider myself a creative person, 
