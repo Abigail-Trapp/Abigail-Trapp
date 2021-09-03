@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hi there 👋 ![cat-nyan](https://user-images.githubusercontent.com/79931224/131932759-70456940-1eb0-4dbd-a8b1-d54a27026efa.gif)
+## My name is Abigail Trapp!
+# I consider myself a creative person, 
+# which is why I enjoy playing with CSS and Javascript!
+  🔭 I just graduated from a 6-month program learning HTML, CSS, and Javascript.
+  🌱 I’m interested learning Javascript mainframes such as React.JS
+  📫 How to reach me: https://www.linkedin.com/in/abigail-trapp-a31b0b210/
 <!--
 **Abigail-Trapp/Abigail-Trapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
