@@ -4,7 +4,7 @@
 ### I consider myself a creative person, 
 ### which is why I enjoy playing with CSS and Javascript!
  #### 🔭 I just graduated from a 6-month program learning HTML, CSS, and Javascript.
- #### 🌱 I’m interested learning Javascript mainframes such as React.JS
+ #### 🌱 I’m interested learning Javascript mainframes and currently working on React. 
  #### 📫 How to reach me: https://www.linkedin.com/in/abigail-trapp-a31b0b210/
  abbie.trapp@gmail.com
 
