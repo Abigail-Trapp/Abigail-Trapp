@@ -5,7 +5,7 @@
 ### which is why I enjoy playing with CSS and Javascript!
  #### 🔭 I just graduated from a 6-month program learning HTML, CSS, and Javascript.
  #### :space_invader: I'm currently working on enhancing my front end web development skills. 
- #### 🌱 I’m interested learning Javascript mainframes and currently working on React. 
+ #### 🌱 I’m currently learning and practicing Python. 
  #### 📫 How to reach me: https://www.linkedin.com/in/abigail-trapp-a31b0b210/
  abbie.trapp@gmail.com
 
