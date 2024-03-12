@@ -5,7 +5,7 @@
 ### which is why I enjoy playing with CSS and Javascript!
  #### 🔭 I just graduated from a 6-month program learning HTML, CSS, and Javascript.
  #### :space_invader: I'm currently working on enhancing my full-stack software engineering skills. 
- #### 🌱 I’m currently learning and practicing Ansible YAML. 
+ #### 🌱 I’m currently learning Python.
  #### 📫 How to reach me: https://www.linkedin.com/in/abigail-trapp-a31b0b210/
  abbie.trapp@gmail.com
 
